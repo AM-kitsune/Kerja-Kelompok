@@ -25,7 +25,7 @@ session_start();
     font-family: "Poppins", sans-serif;
     box-sizing: border-box;
     text-transform: capitalize;
-    text-decoration: none;
+    
   }
   header{
     position: relative;
